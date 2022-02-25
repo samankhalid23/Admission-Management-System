@@ -1,0 +1,7 @@
+﻿  forms.cpp
+E:\New folder (4)\admission\admission\forms.cpp(154,37): error C2065: 's_lastPer': undeclared identifier
+  menus.cpp
+E:\New folder (4)\admission\admission\menus.cpp(20,6): warning C4101: 'choice': unreferenced local variable
+E:\New folder (4)\admission\admission\menus.cpp(109,11): warning C4309: 'initializing': truncation of constant value
+  Source.cpp
+  Generating Code...
